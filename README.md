@@ -2,7 +2,7 @@
 
 This is an internship project I was assigned to by CODESOFT company.
 
-<a href = > Click here for a step wise video approach I took to soft this problem
+<a href = /> Click here for a step wise video approach I took to soft this problem
 
 There are three species of Iris flowers: setosa, versicolor,
 and virginica. These species can be distinguished based on their
