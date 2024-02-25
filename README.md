@@ -1,6 +1,6 @@
-# This is an Internship Project I Participate in from CODESOFT
+# This is a Data Science Internship I participate in with CODSOFT
 
-This is an internship project I was assigned to by CODESOFT company.
+In this internship project I develop model for classifyinh iris flower, from its sepal, it can tell if the flower is setosa, versicolor or virginica  
 
 <a href> Click here to see my YouTube video for a stepwise approach I took to solve this problem
 
